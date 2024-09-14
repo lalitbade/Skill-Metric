@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9c918e04.css",
+    "main.js": "/static/js/main.d92d8d2b.js",
+    "static/js/239.fcaddd2b.chunk.js": "/static/js/239.fcaddd2b.chunk.js",
+    "static/js/213.aa9f6aad.chunk.js": "/static/js/213.aa9f6aad.chunk.js",
+    "static/js/732.c5c90b7b.chunk.js": "/static/js/732.c5c90b7b.chunk.js",
+    "static/js/453.8ab44547.chunk.js": "/static/js/453.8ab44547.chunk.js",
+    "static/media/corinne-kutz-eeqFjT6q_sQ-unsplash.jpg": "/static/media/corinne-kutz-eeqFjT6q_sQ-unsplash.f77d43c41e91d4a77eda.jpg",
+    "static/media/andrew-neel-ute2XAFQU2I-unsplash.jpg": "/static/media/andrew-neel-ute2XAFQU2I-unsplash.ab420dc07c3fed0d53a5.jpg",
+    "static/media/1000030810_Original.jpg": "/static/media/1000030810_Original.4e3fe52be710f0b5cc5e.jpg",
+    "static/media/twitter.png": "/static/media/twitter.7e40f617aaa8eca864bb.png",
+    "static/media/instagram.png": "/static/media/instagram.ac32ec0a111aeba03298.png",
+    "static/media/linkedin.png": "/static/media/linkedin.032cf8a63be2f0f4d425.png",
+    "static/media/facebook.png": "/static/media/facebook.8d51a55626e9bf107f8f.png",
+    "index.html": "/index.html",
+    "main.9c918e04.css.map": "/static/css/main.9c918e04.css.map",
+    "main.d92d8d2b.js.map": "/static/js/main.d92d8d2b.js.map",
+    "239.fcaddd2b.chunk.js.map": "/static/js/239.fcaddd2b.chunk.js.map",
+    "213.aa9f6aad.chunk.js.map": "/static/js/213.aa9f6aad.chunk.js.map",
+    "732.c5c90b7b.chunk.js.map": "/static/js/732.c5c90b7b.chunk.js.map",
+    "453.8ab44547.chunk.js.map": "/static/js/453.8ab44547.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c918e04.css",
+    "static/js/main.d92d8d2b.js"
+  ]
+}
